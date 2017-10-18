@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/Add.png</file>
+        <file>images/clanbomber_2326.png</file>
+    </qresource>
+</RCC>
